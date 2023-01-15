@@ -43,5 +43,9 @@
   },
   "execMap": {
     "js": "node –harmony"
+  },
+
+  "directories": {
+    "lib": "src"
   }
 }
