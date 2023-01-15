@@ -1,0 +1,14 @@
+node_modules
+.idea
+/.env
+/.env*
+env.json
+env*.json
+build/
+package-lock.json
+app-linux
+app-macos
+app-win.exe
+coral-backend.exe
+/frontend/yarn.lock
+yarn.lock
